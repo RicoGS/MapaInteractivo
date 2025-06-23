@@ -1,0 +1,7 @@
+{
+  "name": "srg/mapa-interactivo",
+  "description": "el proyecto busca mostrar los contactos en un mapa interactivo",
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
